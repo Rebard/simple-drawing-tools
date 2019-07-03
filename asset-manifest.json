@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/simple-drawing-tools/static/css/main.d6895ea8.chunk.css",
+    "main.js": "/simple-drawing-tools/static/js/main.b70fd988.chunk.js",
+    "main.js.map": "/simple-drawing-tools/static/js/main.b70fd988.chunk.js.map",
+    "runtime~main.js": "/simple-drawing-tools/static/js/runtime~main.e49c7c5b.js",
+    "runtime~main.js.map": "/simple-drawing-tools/static/js/runtime~main.e49c7c5b.js.map",
+    "static/css/2.2614ebd1.chunk.css": "/simple-drawing-tools/static/css/2.2614ebd1.chunk.css",
+    "static/js/2.720cbbeb.chunk.js": "/simple-drawing-tools/static/js/2.720cbbeb.chunk.js",
+    "static/js/2.720cbbeb.chunk.js.map": "/simple-drawing-tools/static/js/2.720cbbeb.chunk.js.map",
+    "index.html": "/simple-drawing-tools/index.html",
+    "precache-manifest.808bd76f99c1df9b11dfb68eb5006f05.js": "/simple-drawing-tools/precache-manifest.808bd76f99c1df9b11dfb68eb5006f05.js",
+    "service-worker.js": "/simple-drawing-tools/service-worker.js",
+    "static/css/2.2614ebd1.chunk.css.map": "/simple-drawing-tools/static/css/2.2614ebd1.chunk.css.map",
+    "static/css/main.d6895ea8.chunk.css.map": "/simple-drawing-tools/static/css/main.d6895ea8.chunk.css.map",
+    "static/media/circle.svg": "/simple-drawing-tools/static/media/circle.7859ddb7.svg",
+    "static/media/hexagon.svg": "/simple-drawing-tools/static/media/hexagon.ad81c3f7.svg"
+  }
+}
